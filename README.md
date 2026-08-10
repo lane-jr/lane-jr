@@ -1,4 +1,4 @@
-## Hey, I'm Lane (case) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lane-johnson-7a08b91b3/)
+## Hey, I'm Lane (case) 
 
 
 - Enthusiastic about all things tech! Currently part of the data engineering team at Enova International.
